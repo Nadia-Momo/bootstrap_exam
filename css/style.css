@@ -59,12 +59,12 @@ padding-bottom:12px;
     background: #314D50;
     color:#FFFFFF;
     width:638px;
-    height:147px;
+    height:120px;
     justify-content: center;
     align-items: center;
 border-radius: 80px;
 position:absolute;
-bottom:42px;
+bottom:35px;
 left:57px;
 opacity:0.5;
 
@@ -114,4 +114,12 @@ color:#FFFFFF;
 }
 .icons{
     margin-top:35px;
+}
+.scanner img{
+    width:30px;
+    height:30px;
+  position:absolute;
+      top: 360px;
+    left: 685px;
+    
 }
