@@ -62,11 +62,12 @@ padding-bottom:12px;
     height:147px;
     justify-content: center;
     align-items: center;
-border-radius: 13px;
+border-radius: 80px;
 position:absolute;
 bottom:42px;
 left:57px;
 opacity:0.5;
+
 }
 .counter-box h1{
     font-size:29px;
@@ -104,7 +105,6 @@ color:#FFFFFF;
     border:none;
     color:#FFFFFF;
     background-image: linear-gradient(#008B9F, #7CEEFF);
-  
     font-weight:600px;
     padding-left:155px;
     padding-right:155px;
